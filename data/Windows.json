@@ -1,1 +1,1 @@
-{"Scene_Menu":{"Window_MenuCommand":{"x":0,"y":0},"Window_Gold":{"x":0,"y":552},"Window_MenuStatus":{"x":240,"y":0,"opacity":"255","width":"576","height":"624","rows":"3","cols":"2"}}}
+{"Scene_Title":{"Window_TitleCommand":{"x":157,"y":336,"opacity":"255","width":"500","rows":"2","cols":"2","lineHeight":"36","align":"center"}}}
