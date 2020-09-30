@@ -1,0 +1,29 @@
+[
+null,
+{
+	"ID": 1,
+	"Name": "Defeat Boss1",
+	"IconID": 1,
+	"Description": "Boss1 is in the northen wing awaiting for your challenge.",
+	"Category": "Simple",
+	"Rewards": 
+	[{
+		"Type": "gold",
+		"Amount": 100
+	},
+	{
+		"Type": "item",
+		"Amount": 1,
+		"ID": 5
+	},
+	{
+		"Type": "text",
+		"Text": "Slay Boss1"	
+	}],
+	"Steps": [
+		" - Train",
+		" - Fight",
+		" - Win"
+	]
+}
+]
