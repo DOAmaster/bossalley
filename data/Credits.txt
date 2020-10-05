@@ -1,0 +1,50 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-2,10,10,offbot,center,Island>
+CREDITS
+
+
+\c[2]Designers
+Derrick Alden
+Terry Schertz
+
+
+\c[2]Programmer
+Derrick Alden
+
+
+\c[2]Music
+lowfiendmusic AKA Will
+https://soundcloud.com/lowfiendmusic
+
+
+\c[2]Quality Assurance
+
+
+
+
+
+
+
+
+\c[2]Thanks
+RPG players like you!
+
+
+
+
+
+
+
+
+
+DohWah Productions 2020
+</block>
+
+
+<block:999,0,10,10,300,center,Plain>
+THE END
+</block>
+
+
