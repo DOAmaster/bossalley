@@ -16,12 +16,6 @@ null,
 {"id":14,"battlerName":"","characterIndex":2,"characterName":"Monster","classId":16,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Orc","nickname":"","note":"","profile":""},
 {"id":15,"battlerName":"","characterIndex":4,"characterName":"Monster","classId":17,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"MonsterFaces2","traits":[],"initialLevel":8,"maxLevel":99,"name":"Toxic Spider","nickname":"","note":"","profile":""},
 {"id":16,"battlerName":"","characterIndex":4,"characterName":"Nature","classId":17,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Nature","traits":[],"initialLevel":10,"maxLevel":99,"name":"Toxic Angel","nickname":"","note":"","profile":""},
-<<<<<<< Updated upstream
-{"id":17,"battlerName":"","characterIndex":3,"characterName":"Evil","classId":17,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Evil","traits":[{"code":21,"dataId":0,"value":2}],"initialLevel":8,"maxLevel":99,"name":"Occultist","nickname":"","note":"","profile":""},
-{"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
-=======
 {"id":17,"battlerName":"","characterIndex":3,"characterName":"Evil","classId":17,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Evil","traits":[],"initialLevel":8,"maxLevel":99,"name":"Occultist","nickname":"","note":"","profile":""},
 {"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
@@ -126,5 +120,4 @@ null,
 {"id":118,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":119,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":120,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
->>>>>>> Stashed changes
 ]
