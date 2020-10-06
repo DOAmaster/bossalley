@@ -1006,8 +1006,7 @@ Scene_Equip.prototype.createRequirementWindow = function() {
     this._requirementWindow = new Window_EquipRequirement(wx, wy, ww, wh);
     this._slotWindow.setRequirementWindow(this._requirementWindow);
     this._itemWindow.setRequirementWindow(this._requirementWindow);
-    //this.addChild(this._requirementWindow);
-	this.addWindow(this._requirementWindow);
+    this.addWindow(this._requirementWindow);
     this._lowerRightWindows.push(this._requirementWindow);
 };
 

@@ -4,7 +4,7 @@ null,
 	"ID": 1,
 	"Name": "Defeat Boss1",
 	"IconID": 1,
-	"Description": "Boss1 is in the northen wing awaiting for your challenge.",
+	"Description": "Boss1 is awaiting your challenge.",
 	"Category": "Simple",
 	"Rewards": 
 	[{
@@ -25,5 +25,141 @@ null,
 		" - Fight",
 		" - Win"
 	]
+},
+
+{
+	"ID": 2,
+	"Name": "Defeat Boss2",
+	"IconID": 1,
+	"Description": "Boss2 is awaiting your challenge.",
+	"Category": "Simple",
+	"Rewards": 
+	[{
+		"Type": "gold",
+		"Amount": 500
+	},
+	{
+		"Type": "item",
+		"Amount": 1,
+		"ID": 17
+	},
+	{
+		"Type": "text",
+		"Text": "Slay Boss2"	
+	}],
+	"Steps": [
+		" - Train",
+		" - Fight",
+		" - Win"
+	]
+},
+
+{
+	"ID": 3,
+	"Name": "Defeat Boss3",
+	"IconID": 1,
+	"Description": "Boss3 is awaiting your challenge.",
+	"Category": "Simple",
+	"Rewards": 
+	[{
+		"Type": "gold",
+		"Amount": 1000
+	},
+	{
+		"Type": "item",
+		"Amount": 1,
+		"ID": 18
+	},
+	{
+		"Type": "text",
+		"Text": "Slay Boss3"	
+	}],
+	"Steps": [
+		" - Train",
+		" - Fight",
+		" - Win"
+	]
+},
+
+{
+	"ID": 4,
+	"Name": "Defeat Boss4",
+	"IconID": 1,
+	"Description": "Boss4 is awaiting your challenge.",
+	"Category": "Simple",
+	"Rewards": 
+	[{
+		"Type": "gold",
+		"Amount": 1250
+	},
+	{
+		"Type": "item",
+		"Amount": 1,
+		"ID": 19
+	},
+	{
+		"Type": "text",
+		"Text": "Slay Boss4"	
+	}],
+	"Steps": [
+		" - Train",
+		" - Fight",
+		" - Win"
+	]
+},
+
+{
+	"ID": 5,
+	"Name": "Defeat Boss5",
+	"IconID": 1,
+	"Description": "Boss5 is awaiting your challenge.",
+	"Category": "Simple",
+	"Rewards": 
+	[{
+		"Type": "gold",
+		"Amount": 1500
+	},
+	{
+		"Type": "item",
+		"Amount": 1,
+		"ID": 20
+	},
+	{
+		"Type": "text",
+		"Text": "Slay Boss5"	
+	}],
+	"Steps": [
+		" - Train",
+		" - Fight",
+		" - Win"
+	]
+},
+
+{
+	"ID": 6,
+	"Name": "Final Boss",
+	"IconID": 1,
+	"Description": "The Final Boss is awaiting your challenge.",
+	"Category": "Simple",
+	"Rewards": 
+	[{
+		"Type": "gold",
+		"Amount": 2000
+	},
+	{
+		"Type": "item",
+		"Amount": 1,
+		"ID": 21
+	},
+	{
+		"Type": "text",
+		"Text": "Slay the Final Boss"	
+	}],
+	"Steps": [
+		" - Train",
+		" - Fight",
+		" - Win"
+	]
 }
+
 ]
