@@ -41,5 +41,6 @@ var $plugins =
 {"name":"dmv-core","status":true,"description":"DMV_Core contains functions that are used within some of\nthe more advanced RPG Maker MV plugins of mine.","parameters":{}},
 {"name":"dmv-rare_candies","status":true,"description":"Allows actors to gain a level up via skills and items.\nVery similar to the classic 'rare candy' item in pokemon games.","parameters":{"Rare Candy Tag":"rare_candy"}},
 {"name":"GALV_RollCredits","status":true,"description":"(v.1.5) A plugin that calls a new scene to display scrolling information located in an external text file.","parameters":{"Folder":"data","Skippable":"true","Block Skipping":"true","Title Menu":"Credits","Title Credits Music":"CreditTune"}},
-{"name":"ARP_TitleCommandExit","status":true,"description":"v1.00 Adds an option in the title command window to close\r\ngame window.","parameters":{"Command Exit":"Quit","Show Exit":"true"}}
+{"name":"ARP_TitleCommandExit","status":true,"description":"v1.00 Adds an option in the title command window to close\r\ngame window.","parameters":{"Command Exit":"Quit","Show Exit":"true"}},
+{"name":"Galv_RandEncounterConditions","status":true,"description":"(v.1.2) Have random encounter troops only appear in certain conditions","parameters":{}}
 ];
