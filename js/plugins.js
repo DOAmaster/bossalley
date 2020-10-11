@@ -42,5 +42,6 @@ var $plugins =
 {"name":"dmv-rare_candies","status":true,"description":"Allows actors to gain a level up via skills and items.\nVery similar to the classic 'rare candy' item in pokemon games.","parameters":{"Rare Candy Tag":"rare_candy"}},
 {"name":"GALV_RollCredits","status":true,"description":"(v.1.5) A plugin that calls a new scene to display scrolling information located in an external text file.","parameters":{"Folder":"data","Skippable":"true","Block Skipping":"true","Title Menu":"Credits","Title Credits Music":"CreditTune"}},
 {"name":"ARP_TitleCommandExit","status":true,"description":"v1.00 Adds an option in the title command window to close\r\ngame window.","parameters":{"Command Exit":"Quit","Show Exit":"true"}},
-{"name":"Galv_RandEncounterConditions","status":true,"description":"(v.1.2) Have random encounter troops only appear in certain conditions","parameters":{}}
+{"name":"Galv_RandEncounterConditions","status":true,"description":"(v.1.2) Have random encounter troops only appear in certain conditions","parameters":{}},
+{"name":"ARP_SimpleStealSkill","status":true,"description":"v1.00 Creates skills or items that can steal enemy items.\r\n<ARP_SSS>","parameters":{"Nothing Text":"They've got nothing to take!","No Items Text":"There's nothing left!","Got Nothing Text":"Failed to snatch anything!","Obtained Text":"Stole","Enemy Name Color":"8","Message Position":"1","Message Background":"1"}}
 ];
