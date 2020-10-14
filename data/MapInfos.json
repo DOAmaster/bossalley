@@ -14,7 +14,7 @@ null,
 {"id":12,"expanded":false,"name":"Boss3","order":21,"parentId":1,"scrollX":819,"scrollY":466},
 {"id":13,"expanded":false,"name":"Boss4","order":22,"parentId":1,"scrollX":819,"scrollY":466},
 {"id":14,"expanded":false,"name":"FinalBoss","order":23,"parentId":1,"scrollX":655.2,"scrollY":378},
-{"id":15,"expanded":false,"name":"Boss5","order":24,"parentId":1,"scrollX":648.8,"scrollY":378},
+{"id":15,"expanded":false,"name":"Boss5","order":24,"parentId":1,"scrollX":819,"scrollY":466},
 {"id":16,"expanded":true,"name":"SelectMap","order":26,"parentId":0,"scrollX":655.2,"scrollY":378},
 {"id":17,"expanded":false,"name":"IntroMap","order":27,"parentId":0,"scrollX":819,"scrollY":466},
 {"id":18,"expanded":true,"name":"Ice","order":5,"parentId":3,"scrollX":832,"scrollY":640},
@@ -26,5 +26,5 @@ null,
 {"id":24,"expanded":true,"name":"Gloom","order":10,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":25,"expanded":true,"name":"Pit","order":11,"parentId":3,"scrollX":819,"scrollY":466},
 {"id":26,"expanded":false,"name":"HQ2-2","order":16,"parentId":6,"scrollX":655.2,"scrollY":378},
-{"id":27,"expanded":false,"name":"HQ3-3","order":18,"parentId":7,"scrollX":655.2,"scrollY":378}
+{"id":27,"expanded":false,"name":"HQ3-3","order":18,"parentId":7,"scrollX":819,"scrollY":466}
 ]
