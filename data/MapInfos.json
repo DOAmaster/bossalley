@@ -29,5 +29,6 @@ null,
 {"id":27,"expanded":false,"name":"HQ3-3","order":19,"parentId":7,"scrollX":819,"scrollY":466},
 {"id":28,"expanded":true,"name":"Pre-Intro","order":29,"parentId":0,"scrollX":655.2,"scrollY":378},
 {"id":29,"expanded":false,"name":"Pre-Title","order":30,"parentId":28,"scrollX":832,"scrollY":640},
-{"id":30,"expanded":true,"name":"HiddenShop","order":13,"parentId":3,"scrollX":655.2,"scrollY":378}
+{"id":30,"expanded":true,"name":"HiddenShop","order":13,"parentId":3,"scrollX":655.2,"scrollY":378},
+{"id":31,"expanded":false,"name":"NewCharSelect","order":25,"parentId":1,"scrollX":0,"scrollY":0}
 ]
