@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":2,"characterName":"monsterman","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"StartSlime","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":1,"characterName":"","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"StartSlime","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Warrior","nickname":"","note":"+ Actor","profile":""},
 {"id":3,"battlerName":"","characterIndex":1,"characterName":"Actor1","classId":3,"equips":[3,0,2,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mage","nickname":"","note":"+ Actor","profile":""},
 {"id":4,"battlerName":"","characterIndex":2,"characterName":"Actor1","classId":4,"equips":[4,0,2,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Priest","nickname":"","note":"","profile":""},
